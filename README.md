@@ -70,4 +70,4 @@ archive/                이전 버전 T25~T44, 강사 예제 복원본(INSTR), �
 | [docs/AI_CONTEXT.md](docs/AI_CONTEXT.md) | 다른 AI 대화에 넣을 프로젝트 요약 |
 | [CHANGES.md](CHANGES.md) | 버전별 변경 기록 |
 
-남은 개선 과제는 [Issues](https://github.com/kongmingi/WCRC-2026/issues)에 정리되어 있습니다. 대회 당시 코드는 태그 `v1.0-competition`으로 고정했습니다.
+남은 개선 과제는 [Issues](https://github.com/kongmingi/WCRC-2026/issues)에 정리되어 있습니다. 대회 당시 코드는 `T45` 폴더입니다.
