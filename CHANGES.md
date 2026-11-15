@@ -1,5 +1,10 @@
 # 변경 기록
 
+## 최종 정리 (11/15)
+- T45 = 대회 최종 코드. T45_Tuning.h 대회 마지막 값: 속도 MOVE/SIDE 170, SEARCH 160, MOBILEBASE 180, 적재함 램프 전부 켬, SIG7_COLOR 0, 배정표 대회 마지막 판, za4 j1 983
+- T44, INSTR(강사 예제 복원), TODO(T16 기준), 개발정리.docx 는 archive/ 로
+- 문서는 docs/ 에 Markdown 으로: DEVELOPMENT, PORTFOLIO, TUNING, CONSOLE, AI_CONTEXT. 루트 README 추가
+
 ## 남은 일 (테스트 메모)
 - t5 3: 1열 중앙을 잘 못 잡음. t5 3은 1열까지 가는 것만 함(스캔·집기는 t4, t6)
 - t5 4: 동작은 맞는데 Zone A 위치가 애매함
